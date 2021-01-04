@@ -34,9 +34,12 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
 
-
-
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdsonMateus1&show_icons=true)
+
+[![EdsonMateus1](https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonMateus1&layout=compact&theme=default)](https://github.com/EdsonMateus1/)
+
+
+
