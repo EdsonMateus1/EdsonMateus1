@@ -3,7 +3,7 @@
 > Estudante de ciências da computação apaixonado por tecnologia.
 
 
-💬Desenvolvedor de software 👐 | ReactJs | Nodejs | Javascript | typescript | CSS | HTML | Flutter | Vue
+💬Desenvolvedor de software 👐 | ReactJs | Nodejs | Javascript | Typescript | Dart | CSS | HTML | Flutter | Vue
 
 ----
 
@@ -31,6 +31,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Flutter"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
 
