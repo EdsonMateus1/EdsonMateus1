@@ -3,7 +3,7 @@
 > Estudante de ciências da computação apaixonado por tecnologia.
 
 
-💬 Se você quer chegar a onde a maioria não chega , faça o que a maioria não faz
+💬Desenvolvedor de software 👐 | ReactJs | Nodejs | Javascript | typescript | CSS | HTML | Flutter | Vue
 
 ----
 
