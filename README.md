@@ -1,6 +1,10 @@
 ## 💜 Olá, meu nome é <strong>Edson Mateus!</strong>
 
-> Estudante de ciências da computação apaixonado por tecnologia.
+> Estudante de Ciência da Computação, já com experiência no mercado de trabalho atuando em projetos da Drogaria Araújo, busco cada vez mais o conhecimento nessa área que tanto amo.
+
+>Sempre me atualizando, estou atrás de novas tecnologias e formas de resolver problemas aplicando todas as minhas habilidades adquiridas em experiência de trabalho, cursos e faculdade.
+
+>Fascinado no universo da tecnologia, me sinto bastante satisfeito toda vez em que finalizo um novo projeto, aprendendo conteúdos novos que me auxiliam no meu crescimento profissional e pessoal!
 
 
 💬Desenvolvedor de software 👐 | ReactJs | Javascript | Typescript | Dart | CSS | HTML | Flutter | Vue
